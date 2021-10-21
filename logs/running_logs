@@ -1,0 +1,10 @@
+[2021-10-21 14:12:05,713: INFO: stage_01_load_save]: Stage 1 started
+[2021-10-21 14:12:05,726: INFO: all_utils]: yaml file: {path_to_yaml} loaded successfully
+[2021-10-21 14:12:05,823: INFO: all_utils]: directory is created at data/dog
+[2021-10-21 14:12:07,440: INFO: all_utils]: directory is created at data/cat
+[2021-10-21 14:12:09,066: INFO: stage_01_load_save]: Stage 1 completd ,all the data saved
+[2021-10-21 14:13:04,675: INFO: stage_01_load_save]: >>>>> Stage 1 started
+[2021-10-21 14:13:04,681: INFO: all_utils]: yaml file: {path_to_yaml} loaded successfully
+[2021-10-21 14:13:04,708: INFO: all_utils]: directory is created at data/dog
+[2021-10-21 14:13:05,478: INFO: all_utils]: directory is created at data/cat
+[2021-10-21 14:13:06,531: INFO: stage_01_load_save]: Stage 1 completd ,all the data saved >>>>>>>
